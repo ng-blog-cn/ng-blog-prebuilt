@@ -1,0 +1,5 @@
+{
+  "id": "blog",
+  "title": "Nice Angular 文库简介",
+  "contents": "\n<div class=\"content\">\n<h1 id=\"nice-angular-文库简介\"><a title=\"Link to this heading\" class=\"header-link\" aria-hidden=\"true\" href=\"blog#nice-angular-文库简介\"><i class=\"material-icons\">link</i></a>Nice Angular 文库简介</h1>\n\n<div class=\"alert is-important\">\n<p><strong>注意</strong> 这些都是 Nice Angular 社区的原创或翻译文章，既不代表官方的观点，也没有经过官方的技术审核。其技术准确性和严谨性由 Nice Angular 社区提供保障。</p>\n</div>\n<p>这是来自 Nice Angular 社区的原创文章集锦。这个网站是完全以 Angular 官方文档站为基础制作的。官方文档站提供的基础设施有如下优点：</p>\n<ol>\n<li>自动检查链接的有效性。</li>\n<li>自动抽取目录。</li>\n<li>自动从 examples 中截取代码，以确保每一段代码都是能正常工作的。</li>\n<li>支持每个 example 都既可以作为在线的 live example ，也可以下载到本地运行。</li>\n</ol>\n<p>除此之外，还让我们的文章能更加方便的链接到官方文档中。</p>\n<p>如果你有意参与创作，请联系我们。</p>\n\n</div>"
+}
